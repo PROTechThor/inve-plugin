@@ -1,0 +1,44 @@
+.detail_controls{
+    background: none repeat scroll 0 0 #237BD9;
+    float: left;
+    margin: 10px 10px 10px 0;
+    max-width: 150px;
+    padding: 5px;
+    color: #fff;
+}
+
+.detail_controls a{
+    color: #fff !important;
+}
+
+.type-inve{
+    padding: 5px;
+    background: #eee;
+    border: 1px solid #cfcfcf !important;
+    margin-bottom: 10px !important;
+}
+
+
+.avatar-64{
+    width: 64px !important;
+    height: 64px !important;
+}
+
+.comment-meta .fn {
+    margin: 0 2px 0 30px !important;
+    padding: 10px;
+    opacity: 0.8;
+}
+
+.comment-txt{
+    margin-left: 85px;
+}
+
+.inve-list-item{
+    padding: 10px;
+    background: #eee;
+}
+
+.inve-comment-list{
+    margin-bottom: 20px !important;
+}
